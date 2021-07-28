@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "megamirroruploadbot",
+  "private_key_id": "055b1ff590624d08fdd36ed972e695668d2c4765",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsFABBW/bsipuR\nwRdTIjktSuMXC1PFXQ+0F5062AzPNmi4ZVdsfjJLUkaLGDg6aEgQqLvOtJ7ao/+u\n518chTGTbLmxmHxBnIFfalO60SxAf+CIaTxUdDa0hI3/iZaLUrw6Csn+3krU6giO\nlzh3ebLX0KcP+nNTXYIapsamCAtkGjEIyZgPa8wqSj+/a5dikSf3ub1vhrWDKn6H\naCTJBpk94YZ9tsIow/BYtAk1EpttH+3S6fBuB3pEd7oTqOZoU3WjjsVlpfajtPm2\nb08PT4XGLjKxS1n5SMAxH+qWExrHBfxizo/7PcCUtKxHxWcYl9S88ScvVFj+VIOT\nBlOlP79dAgMBAAECggEAAbnGk3OCRZInCyauMqFswY7bv/eyu3cb7kEwRpGO9i9O\n7h2GD/hhWhNC9pvahgbbOQQeRm10hi+oL+kiq1VQVXzqsbnrkIQetuFkSZIYx5ur\nXK/Nrdh52OxE6c/NzdYrz4veoQG0Ky0ezyJRGZrGvc1sc0qSRVFf/L3E89jszjlp\nhkBfIpCCzOKo2gYEvr5zB8EK6g0D4EtZOnmZ2aDSGG2KaPsXp+1TWYpnXo08yYcI\n9g2ErtlUhaObhQJjv16XEPZzldlLJYsRf/TDDBiqZvcIQ5oKJHXO9GD/wf/3u/Ok\nkrUa9lvTIcH5KAYT35hFaPvgc8iFZkYhn6cAfSWhOQKBgQDzR2ONwKHLtJ+i+JVN\n102u91MpKk/NbEdJymUNoNLcgqT5DtOd20jSardA5gnTdgSCSkI9GEJac63YQxWY\n+f2ft7jigbMD+DHvDLxeWagZOQuGtGObPQR6Fhu0xWKkvb/aFP1sfRnCxC+m+EDT\nvwZNV7wdcynfxNODo4Rzu80WtwKBgQC1E37fulHyVq3UthCGh5up7R6TNrzHFUww\nNQdXVjMaW5ih5H15HYEchDYTR1d1r1u9Y6HGe2FbuBs6RW0h79rEQJC2Ept+5qup\n42SJUoippN/nBT6vxsi2Uoe8mqxMciCl5UtQN3/3MEd+SDYoTpGepeI8k+iTSk5B\nTxUzzWTmiwKBgQDK/8Dkod7geiHS/ZaoU4Yw/5PW/8WDZly+CDL2gkIxWpqKcILI\ncBh97Cpp7wo393yfs5M+I6YKkAh6MtAszD2ELuwJpaxZHZudG4V7PVj1YxJpHtEW\n0n2P2i7YUvSS/vq94VHuWx1J1iblLrX5eqaplxITiOtiG31blPCLGiRyVQKBgFLM\n52dGu9Ik8LgjyMq7l+LMGv8WOJyQkJY6qXC2agfTeqgM45NOeoufqVqHdObLmRex\nR3iLUqmuNkUfGhg6pb64B3Q6bgBJWpYE9SQWKYfpbLknHNMkAwPcGVWVJNSQG33A\nq/+yYUGXQhnsy1cDFnOFRz6MI/22LLKQhxF5CnqhAoGAGetRPGWxERnJqLChIkXw\nNJLi+WfuuMHfyNTpgr73ANNB4TZ7b4zl2TGJHDR4xhmw+hUmolVjv2iIa278xWf8\nV003JiovOkFC4jimLyoCIQQElGJFNs9q0MF813Uugx2tY+WoPZ/U+wGeuiVfc19d\na2LybFtiUeupXrucuaWq+bU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-c440lqnkjincerl4wi9ra2h-hu@megamirroruploadbot.iam.gserviceaccount.com",
+  "client_id": "101224664647422821677",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-c440lqnkjincerl4wi9ra2h-hu%40megamirroruploadbot.iam.gserviceaccount.com"
+}
